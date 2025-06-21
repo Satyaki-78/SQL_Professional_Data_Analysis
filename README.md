@@ -1,5 +1,7 @@
-# SQL Data Analysis
+# SQL Real World Data Analysis
 An advanced and professional data analytics project learned from DataWithBaraa, a data professional
+
+All SQL queries and techniques used are on a professional level, just like it's done in real jobs
 
 ### This SQL data analysis project involves two parts:
 - EDA
