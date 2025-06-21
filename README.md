@@ -1,4 +1,4 @@
-# SQL_Data_Analysis
+# SQL Data Analysis
 An advanced and professional data analytics project learned from DataWithBaraa, a data professional
 
 ### This SQL data analysis project involves two parts:
